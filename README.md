@@ -1,5 +1,9 @@
 [![我的Blog](https://s3.ax1x.com/2021/01/02/sSjKOI.jpg)](https://www.zyyqg.xyz/)
 > 写在最前：这里是
+### 2021.2.14
+- 多线程
+- 注释和反解
+- js,bable,npm,node
 ### 2021.1.31
 - 又搭好了自己的博客
 - 学完了HTML和CSS
